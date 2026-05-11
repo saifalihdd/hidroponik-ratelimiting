@@ -1,7 +1,4 @@
-# Pertemuan 10 – Rate Limiting & Service Integration
-
-Tugas asynchronous mata kuliah **Pembangunan Perangkat Lunak Orientasi Service**  
-Program Studi S1 Informatika – Universitas Pembangunan Nasional "Veteran" Jakarta
+Rate Limiting & Service Integration
 
 ---
 
