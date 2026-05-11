@@ -1,7 +1,5 @@
 # Rate Limiting & Service Integration
 
----
-
 ## Deskripsi
 
 Project ini mengimplementasikan dua service terpisah yang saling berkomunikasi melalui HTTP REST API, dilengkapi dengan mekanisme **Rate Limiting** pada service utama. Studi kasus yang digunakan adalah klasifikasi kondisi air hidroponik berdasarkan nilai pH dan kelembapan udara.
